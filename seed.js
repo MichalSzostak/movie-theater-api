@@ -34,5 +34,10 @@ const seed = async () => {
     console.log("Shows and User database info populated!")
 }
 
+<<<<<<< HEAD
+=======
+seed();
+
+>>>>>>> c9b48ec (http methods complete, moving to validation)
 //export my seed function
 module.exports = seed;
